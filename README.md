@@ -8,7 +8,7 @@ A modern, high-performance self-hosted media streaming client with automatic upd
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 StreamCore is a sleek, responsive media streaming application built with Flutter.
-Designed for both mobile and TV environments, it delivers a polished, Netflix-style experience powered by my own media backend.
+Designed for both mobile and TV environments, it delivers a polished, powered by my own media backend.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Built for:
